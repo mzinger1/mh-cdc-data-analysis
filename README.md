@@ -5,18 +5,21 @@ Investing Populations with Critical Unmet Mental Health Needs
 Datasets Utilized:
 https://data.cdc.gov/NCHS/Mental-Health-Care-in-the-Last-4-Weeks/yni7-er2q/data
 
-ABSTRACT
+ABSTRACT:
+
 This project aims to dive deeper into the impact the Coronavirus has had on mental health in the United States, with a focus on younger citizens. Specifically, we aim to explore and analyze the barriers in accessing support services and predict what percentage of people are not receiving mental healthcare. Support services, in this context, is defined as access to therapists, support groups, mental health clinicians, and medication. The data is derived from Household Pulse Survey data (a survey designed to collect data on how people’s lives have been impacted by the coronavirus pandemic) from the CDC website [3]. A Random Forest Regressor model will be used for prediction purposes.
 
-INTRODUCTION
+INTRODUCTION:
+
 About 4 in 10 adults in the U.S. reported symptoms of anxiety or depressive disorder during the pandemic. Many studies have shown that the pandemic has caused feelings of loneliness and isolation to spread amongst the general public with healthcare professionals feeling more burned out and being potentially unable to meet the demand for mental health support. In addition, younger people have reported feeling more effected by the pandemic and have reported a “youth mental health crisis.” With our general healthcare system having been under constant stress since the start of the pandemic, we wonder how the mental healthcare system specifically is meeting what evidently is a rising trend in demand for mental health assistance. Of course, with increased pressure on healthcare workers having to take on the brunt of the work during the pandemic, there has been plenty of concern around those who were unfortunately forced out of school or out of work.
   According to a study by the Institute for Health Metrics and Evaluation (IHME), throughout COVID-19 there has been a significant increase in reports of said mental health disorders - especially among women and younger people [4]. Furthermore, the American Psychological Association (APA), says that many psychologists have reported increased workloads and longer waitlists than before the pandemic. Moreover, 4 in 10 (41%) reported being unable to meet the demand for treatment and 46% said they felt burned out [1].Which leads us to the question, how has the demand for mental health assistance changed over the course of the Pandemic, compared to our system’s ability to meet it?  ​
   Now that we are nearing three years since the COVID-19 pandemic swept the nation, we know there have been numerous effects that could be explored and have not yet been explored. Specifically, the aim is to dive deeper into the impact the Coronavirus has had on mental health in the U.S., with a focus on younger citizens. Many have experienced an effect but not a lot of people talk about the barriers in accessing support services. We know that there is plenty of data to use and plenty of resources we can assess to guide us on our research and data analysis. Overall, we wish to gain further insights into this topic so as to raise awareness about mental health issues, and possibly provide recommendations to improve our current mental healthcare system. ​
 
-GOALS AND OBJECTIVES
+GOALS AND OBJECTIVES:
+
 The hope is to investigate and find patterns of disparities in the U.S. mental health system. On a general level, we’d like to know how well we are doing in responding to people’s need for mental health assistance. With increased demands for mental health support, we want to identify any overall trends occurring throughout the pandemic. With our system’s effectiveness in meeting said demands, we want to determine whether it is sufficient or not. Further insights that we want to explore would include changes in healthcare funding and growth in telehealth services. 
 
-METHODOLOGY
+METHODOLOGY:
 Data Acquisition: ​
 
 The dataset was obtained from data.CDC.gov, Centers for Disease Control and Prevention. The data reflects responses from a Household Pulse survey, showcasing the economic and social impacts of the pandemic. We specifically investigated the mental wellness of certain groups. ​
