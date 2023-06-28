@@ -41,6 +41,7 @@ RESULTS AND EVALUATION:
 The State of Mental Health Care Availability​
 
 Within the preliminary data investigation, younger age groups appear to have the highest proportion of people who needs therapy / counseling but do not receive it. Most notably, roughly one out of five people in the U.S. within the age of 18 to 29 lack support in mental healthcare when they identified themselves as needing it.​
+ 
 
 Since each data point only includes information on one of those subsets for a population percentage volume, the accuracy of our model is constrained to this inherent lack of additional features in training data. However, our dataset also provides population percentage data for many different population grouping categories (with By Age being one of them). This allowed us to explore how our prediction model would perform after being trained on each of these grouping subsets. 
 
